@@ -11,7 +11,7 @@ class test
 
     public function index()
     {
-        
-     }
+            echo 'aa';exit;
+    }
 
 }
